@@ -8,7 +8,7 @@
     ],
     "pluginsConfig": {
 			 "theme-gestalt": {
-							"logo": "/assets/logo.png",            
+							"logo": "/assets/logo-ull.png",            
 							"favicon": "/assets/favicon.ico",        
 							"baseUrl": null,                
 							"excludeDefaultStyles": true,        
